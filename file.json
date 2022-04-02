@@ -1,14 +1,123 @@
 {
   "sizing": {
-    "base": {
-      "value": 4,
-      "description": "Alias value",
-      "type": "sizing"
+    "primary-1": {
+      "value": "#0064FF",
+      "type": "color",
+      "description": "A品牌色/primary/primary-1__Default"
     },
-    "default": {
-      "value": 8,
-      "description": "Math value",
-      "type": "sizing"
+    "colors": {
+      "A品牌色": {
+        "primary": {
+          "primary-1": {
+            "value": "#f99105",
+            "type": "color",
+            "description": "A品牌色/primary/primary-1__Default"
+          },
+          "primary-7": {
+            "value": "#00ff00",
+            "type": "color",
+            "description": "合集合集合集合集"
+          },
+          "primary-3": {
+            "value": "#002BA1",
+            "type": "color",
+            "description": "A品牌色/品牌3-Active"
+          },
+          "primary-2": {
+            "value": "#034ABA",
+            "type": "color",
+            "description": "A品牌色/品牌2-Hover"
+          },
+          "primary-4": {
+            "value": "#1F1F49",
+            "type": "color",
+            "description": "A品牌色/品牌4-Dark"
+          },
+          "primary-5": {
+            "value": "#EEF5FF",
+            "type": "color",
+            "description": "A品牌色/品牌5-Light"
+          },
+          "primary-6": {
+            "value": "#DFE8FF",
+            "type": "color",
+            "description": "A品牌色/品牌6-Hover"
+          },
+          "primary-1_default": {
+            "value": "#0064FF",
+            "type": "color",
+            "description": "A品牌色/primary/primary-1__Default"
+          }
+        },
+        "red": {
+          "red-1_active": {
+            "value": "#ff0000",
+            "type": "color",
+            "description": "colors.A品牌色.red.red-1"
+          }
+        }
+      },
+      "B中立色": {
+        "fill": {
+          "fill-1": {
+            "value": "#F8F8F8",
+            "type": "color",
+            "description": "B中立色/1 填充色/填充-1"
+          },
+          "fill-2": {
+            "value": "#F3F3F3",
+            "type": "color",
+            "description": "B中立色/1 填充色/填充-2"
+          },
+          "fill-3": {
+            "value": "#E1E1E1",
+            "type": "color",
+            "description": "B中立色/1 填充色/填充-3"
+          },
+          "fill-4": {
+            "value": "#D8D8D8",
+            "type": "color",
+            "description": "B中立色/1 填充色/填充-4"
+          }
+        }
+      },
+      "C功能色": {
+        "tips": {
+          "tips-1": {
+            "value": "#0064FF",
+            "type": "color",
+            "description": "C功能色/1提示色/提示1-Defult"
+          },
+          "tips-2": {
+            "value": "#034ABA",
+            "type": "color",
+            "description": "C功能色/1提示色/提示2-Hover"
+          },
+          "tips-3": {
+            "value": "#EEF5FF",
+            "type": "color",
+            "description": "C功能色/1提示色/提示3-Light"
+          },
+          "tips-4": {
+            "value": "#DFE8FF",
+            "type": "color",
+            "description": "C功能色/1提示色/提示4-Hover"
+          }
+        }
+      },
+      "文字色": {
+        "text-1": {
+          "value": "#000000",
+          "type": "color",
+          "description": "B中立色/2文字色/文字-1"
+        }
+      }
+    },
+    "Text": {
+      "24px": {
+        "value": "24px",
+        "type": "fontSizes"
+      }
     }
   },
   "Light-Theme-Colorscale": {
